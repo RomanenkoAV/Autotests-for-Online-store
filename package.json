@@ -1,0 +1,17 @@
+{
+  "name": "0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 20000 --require hooks.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^111.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.2"
+  }
+}
